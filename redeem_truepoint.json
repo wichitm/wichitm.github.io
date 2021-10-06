@@ -2,13 +2,17 @@
   "code": 201,
   "message": "success",
   "data": {
-    "transaction_id": "7adc5c00-aaf6-11ea-92a0-2bcb66ace8d8",
-    "redeems_id": "7adc8310-aaf6-11ea-92a0-2bcb66ace8d8",
+    "transaction_id": "9aee8340-0f9c-11ec-99e9-d3e15f58b6b7",
+    "redeems_id": "9aeeaa50-0f9c-11ec-99e9-d3e15f58b6b7",
     "redeems_detail": {
-      "identifierNo": "21965960",
+      "identifierNo": "3768113",
       "identifierType": "TRUEID",
-      "ty_campaign_code": "POINT-802522",
-      "endpoint_function": "redeem"
+      "ty_campaign_code": "POINT-814535",
+      "isTrueyouCustomer": true,
+      "clm_transaction_id": 2220276126,
+      "coupons": [
+        {}
+      ]
     }
   }
 }
