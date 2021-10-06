@@ -1,0 +1,14 @@
+{
+  "code": 201,
+  "message": "success",
+  "data": {
+    "transaction_id": "7adc5c00-aaf6-11ea-92a0-2bcb66ace8d8",
+    "redeems_id": "7adc8310-aaf6-11ea-92a0-2bcb66ace8d8",
+    "redeems_detail": {
+      "identifierNo": "21965960",
+      "identifierType": "TRUEID",
+      "ty_campaign_code": "POINT-802522",
+      "endpoint_function": "redeem"
+    }
+  }
+}
