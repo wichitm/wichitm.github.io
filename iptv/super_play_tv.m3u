@@ -1,0 +1,65 @@
+{
+"name": "SUPER PLAY TV",
+"author": "SUN",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VcIS6_Svv3c9mgjNj07htZ8o2eCGJx7SAA&usqp=CAU",
+"url": "https://drive.google.com/uc?export=download&id=19cDzJkyGBnqQd0bonR-wRGUg1wc4gXpZ",
+"groups": [
+ 
+ 
+ 
+{
+"name": "DIGITAL TV",
+"image": "https://digital.nbtc.go.th/App_Themes/Stylesheet/images/LOGO.png",
+"url": "https://pastebin.com/Yb4Z8it5",
+"import": false
+},
+{
+"name": "DOCUMENTARY",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6KBVGrU6YY5bwzEYaPg9vd4Poygc-bCcMQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/DOCUMENTARYv2",
+"import": false
+},
+{
+"name": "KIDS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/KIDSv2",
+"import": false
+},
+{
+"name": "ENTERTAINMENT",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5I-Hg04bRcxnfLrtvZkWQX5qac9ZgafZblw&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/ENTERTAINMENTv2",
+"import": false
+},
+{
+"name": "GOOD TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaMHzYe4nnpu8S5luAE0I6QI6Sah_PeDeL6Q&usqp=CAU",
+"url": "https://pastebin.com/4BmrH5X3",
+"import": false
+},
+{
+"name": "NEWS",
+"image": "https://uploads.turbologo.com/uploads/design/preview_image/1475872/preview_image20201021-12242-1jfx4bb.png",
+"url": "https://pastebin.com/XBKaQEsE",
+"import": false
+},
+{
+"name": "SPORTS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS29PGwocI1rUbh5dTH0pOuNVrk_ViUwKmIyQ&usqp=CAU",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/SPORTSv2",
+"import": false
+},
+{
+"name": "ANIME CLUB",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPev4dbNdSXpk5t0PrB_QrvtdlP7UxrJ8AMw&usqp=CAU",
+"url": "https://drive.google.com/uc?export=download&id=1OTPiCtYoaD7axyzrjH3IAG3cwDfNmUDW",
+"import": false
+},
+{
+"name": "The Documentary Life",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoV4WcJvjirEhxLkmIiKuTk9Gca5BgiW1tjQ&usqp=CAU",
+"url": "https://drive.google.com/uc?export=download&id=17iitR53qLUJvnyry_wIqWHENZYeAQ7tg",
+"import": false
+},
+]
+}
